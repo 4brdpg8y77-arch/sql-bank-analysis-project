@@ -52,8 +52,9 @@ The analysis focuses on customer segmentation, loan performance, credit risk, tr
 ## Repository Contents
 
 - `.sql` files — SQL queries used to perform each analysis
-- `.csv` files — Results generated from the SQL queries
-- `project2_bank_analysis.sql` — Project database/script
+- `_result.csv` files — Results generated from the SQL queries
+- `Bank_Analysis-Database.sql` — Bank database setup and dataset
+-  `README.md `- Project documentation
 
 ## Project Objective
 
